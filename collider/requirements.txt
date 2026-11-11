@@ -2,3 +2,4 @@ numpy
 jupyterlab>=4.1
 ipycanvas
 pytest
+
